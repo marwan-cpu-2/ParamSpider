@@ -1,0 +1,4 @@
+https://api-mobileweb.soundcloud.com/assignments/561259-220508-983613-850951?client_id=FUZZ&format=FUZZ&layers=FUZZ
+https://api-mobileweb.soundcloud.com/users/soundcloud:users:100746/profile?client_id=FUZZ&format=FUZZ
+https://api-mobileweb.soundcloud.com/assignments/599353-196823-174845-979588?client_id=FUZZ&format=FUZZ&layers=FUZZ
+https://api-mobileweb.soundcloud.com/assignments/97592-243905-272511-281184?client_id=FUZZ&format=FUZZ&layers=FUZZ

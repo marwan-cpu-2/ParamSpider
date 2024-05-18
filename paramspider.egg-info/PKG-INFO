@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: paramspider
+Version: 0.1.0
+Summary: Mining parameters from dark corners of Web Archives
+Author: Devansh Batham
+Author-email: devanshbatham009@gmail.com
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: colorama

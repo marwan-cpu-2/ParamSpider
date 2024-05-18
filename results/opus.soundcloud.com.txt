@@ -1,0 +1,11 @@
+https://opus.soundcloud.com/authentication/consumer?autoConfigure=FUZZ
+https://opus.soundcloud.com/questions/ask?src=FUZZ
+https://opus.soundcloud.com/cq/askquestion.action?src=FUZZ
+https://opus.soundcloud.com/fourohfour.action?autoConfigure=FUZZ
+https://opus.soundcloud.com/dosearchsite.action?queryString=FUZZ
+https://opus.soundcloud.com/login.action?os_destination=FUZZ&permissionViolation=FUZZ
+https://opus.soundcloud.com/admin/billing/addapplication?product=FUZZ
+https://opus.soundcloud.com/rest/quicknav/1/search?type=FUZZ
+https://opus.soundcloud.com/login.action?logout=FUZZ
+https://opus.soundcloud.com/labels/autocompletelabel.action?maxResults=FUZZ
+https://opus.soundcloud.com/login.action?os_destination=FUZZ

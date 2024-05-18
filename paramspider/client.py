@@ -54,11 +54,14 @@ def fetch_url_content(url,proxy):
 
         try:
             response = requests.get(url, proxies=proxy,headers=headers)
+            print(response.status_code)
+            print(response.status_code)
             response.raise_for_status()
             return response
         except (requests.exceptions.RequestException, ValueError):
             logging.warning(f"Error fetching URL {url}. Retrying in 5 seconds...")
             time.sleep(5)
+            continue
         except KeyboardInterrupt:
             logging.warning("Keyboard Interrupt re ceived. Exiting gracefully...")
             sys.exit()
